@@ -1,0 +1,10 @@
+D:\Seneca Study\SEM 6\PRG655\Labs\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Seneca Study\SEM 6\PRG655\Labs\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Seneca Study\SEM 6\PRG655\Labs\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Seneca Study\SEM 6\PRG655\Labs\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Seneca Study\SEM 6\PRG655\Labs\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Seneca Study\SEM 6\PRG655\Labs\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Seneca Study\SEM 6\PRG655\Labs\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Seneca Study\SEM 6\PRG655\Labs\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Seneca Study\SEM 6\PRG655\Labs\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Seneca Study\SEM 6\PRG655\Labs\Lab2\Lab2\obj\Debug\Lab2.AddForm.resources
